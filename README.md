@@ -4,9 +4,10 @@
 
 ### LearnifyHub – A Java-Based Learning Management System with PostgreSQL
 Project Overview: <br>
-LearnifyHub is a comprehensive and robust Learning Management System (LMS) built using Java, JDBC, JSP, Servlets, Sessions, and PostgreSQL. It is designed to manage and deliver online learning experiences efficiently, providing a user-friendly platform for educators, learners, and administrators. With secure login and registration modules and integrated payment gateway, it ensures a seamless and secure learning environment.
+LearnifyHub is a comprehensive and robust Learning Management System (LMS) built using Java, JDBC, JSP, Servlets, Sessions, and PostgreSQL. It is designed to manage and deliver online learning experiences efficiently, providing a user-friendly platform for educators, learners, and administrators. With secure login and registration modules and integrated payment gateway, it ensures a seamless and secure learning environment.<br>
 
-Key Features:<br>
+Key Features:
+
 1️⃣ Dynamic Front-End Interface : <br>
 - Developed interactive and responsive web pages using JSP for a seamless user experience.<br>
 - Intuitive navigation with session management for user authentication and role-based access.<br>
@@ -39,7 +40,7 @@ Key Features:<br>
 - Scalable architecture to handle a growing number of users and courses.
   
 Technologies Used: <br>
-✅ Java (JDBC, JSP, Servlets) – Backend logic and dynamic content rendering. <br>
+✅ Java (JDBC, JSP, Servlets) – Backend logic and dynamic content rendering.  <br>
 ✅ PostgreSQL – Reliable and scalable database management. <br>
 ✅ Session Handling – Secure and persistent user sessions. <br>
 ✅ Payment Gateway Integration – Secure online payments and transaction management. <br>
